@@ -12,7 +12,9 @@ By obj = By.xpath("//input[@id='id_username']")
 
 KeywordUtil.logInfo("[--------This method------] "+ obj)
 
-WebUI.openBrowser('https://postal.test.site.sa/')
+//WebUI.openBrowser('https://postal.test.site.sa/')
+
+WebUI.openBrowser('https://www.google.com/')
 
 boolean str = CustomKeywords.'customKeywords.commanFunctions.elementIsPresent'(obj)
 
