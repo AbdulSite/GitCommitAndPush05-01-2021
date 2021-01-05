@@ -18,7 +18,7 @@
       <testCaseId>Test Cases/TestObjectInitializationInTC</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>99c1e958-12b7-4e96-8753-6a8385490c35</guid>
+      <guid>7fb9633e-bf72-4f6c-952f-207d9319d328</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/WebTableHandle</testCaseId>
