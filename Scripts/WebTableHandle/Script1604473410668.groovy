@@ -6,7 +6,7 @@ By obj = By.xpath("//table[@id='customers']/tbody/tr/td")
 //TestObject obj = findTestObject('Object Repository/WebTableObjects/TableData')
 
 WebUI.openBrowser("https://www.w3schools.com/html/html_tables.asp")
-
+//
 WebUI.maximizeWindow()
 
 String text = "Helen Bennett"
