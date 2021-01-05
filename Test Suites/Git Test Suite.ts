@@ -17,10 +17,4 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/TestObjectInitializationInTC</testCaseId>
    </testCaseLink>
-   <testCaseLink>
-      <guid>7fb9633e-bf72-4f6c-952f-207d9319d328</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/WebTableHandle</testCaseId>
-   </testCaseLink>
 </TestSuiteEntity>
